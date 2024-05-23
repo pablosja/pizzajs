@@ -1,0 +1,17 @@
+console.log('we are online')
+
+let step01 = "Tener los ingredientes de la masa: harina, sal, agua, aceite y levadura."
+let step02 = "Mezclar levadura con agua."
+let step03 = ""
+let step04 = ""
+let step05 = ""
+let step06 = ""
+let step07 = ""
+let step08 = ""
+let step09 = ""
+let step10 = ""
+let step11 = ""
+let step12 = ""
+let step13 = ""
+let step14 = ""
+let step15 = ""
